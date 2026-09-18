@@ -1,0 +1,10 @@
+.hero {
+  align-items: center;
+}
+
+.hero img {
+  max-width: 280px;
+  margin: auto;
+  display: block;
+  border-radius: 50%;
+}/* css styles */
